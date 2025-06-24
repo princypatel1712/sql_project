@@ -117,6 +117,8 @@ group by 1
 order by 2 DESC
 limit 5
 select  distinct category from retail_sales;
+
+
 -- Q.9 Write a SQL query to find the number of unique customers who purchased items from each category.
 select 
     category,    
